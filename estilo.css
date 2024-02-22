@@ -11,7 +11,8 @@
 }
 
 body {
-    background-color: rgb(228, 190, 223);
+    background-color: rgb(96, 88, 212);
+    color: aliceblue;
     font-family: "Audiowide", sans-serif;
 }
 
@@ -35,8 +36,10 @@ p {
     padding: 10%;
 }
 
+
+
 a:link {
-    color: blue;
+    color: rgb(40, 23, 58);
     background-color: transparent;
     text-decoration: none;
 }
